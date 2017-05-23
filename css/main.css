@@ -1,0 +1,68 @@
+
+body{
+	font-family: 'Roboto', sans-serif;
+}
+.fondo-tarjeta{
+	position: relative;
+}
+.foto{
+	position: relative;
+	background-image: url(../img/fondo.png);
+	width: 500px;
+}
+.triangulo{
+	position:absolute;
+	 width: 300px; 
+   height: 300px; 
+   border-bottom: 334px solid #868080; 
+   border-left: 298px solid transparent; 
+   bottom:4px;
+   left:100px;
+}
+
+.logo{
+	position: relative;
+}
+.logotipo{
+	position: absolute;
+	background-image: url(../img/Laboratoria_Logo.png);
+	background-repeat: no-repeat;
+	width: 200px;
+	height: 31px;
+	left:90px;
+	bottom:280px;
+}
+.icono{
+	position:relative;
+
+}
+.iconica{
+	position:absolute;
+	bottom:5px;
+	left: 608px;
+}
+.nombre{
+    color: white;
+    text-align: center;
+    font-weight: 300;
+    position: absolute;
+    top: 30px;
+    right: 230px;
+}
+.trabajo{
+    color: #FB9200;
+    font-size: 0.8em;
+    position: absolute;
+    top: 99px;
+    right: 250px;
+}
+.contacto{
+	position: absolute;
+	color: white;
+	text-align:center;
+	font-weight: 200;
+	top:200px;
+	left:300px;
+}
+
+
